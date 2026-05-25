@@ -1,1 +1,2 @@
-# Customer-Churn-Prediction-Project
+# Customer Churn Prediction
+Professional ML internship project.
